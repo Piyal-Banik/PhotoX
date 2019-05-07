@@ -92,9 +92,6 @@ header {
 /* end of header */
 
 /*Mission*/
-.mission {
-  background: #151f20;
-}
 
 .underline {
   width:150px;
@@ -158,6 +155,21 @@ header {
   opacity: 1;
 }
 /* End of Collection*/
+
+/*Gallery*/
+.underline-dark {
+  width:150px;
+  border: 3px solid #888;
+  margin: auto;
+}
+
+.gallery-list-item {
+  color: #777;
+  cursor: pointer;
+  user-select: none;
+}
+/*End of Gallery*/
+
 
   
   
