@@ -1,7 +1,7 @@
 {
   "name": "photox",
   "version": "1.0.0",
-  "description": "\"A project on bootstrap\"",
+  "description": "A project on bootstrap",
   "main": "index.html",
   "scripts": {
     "start": "npm run lite",
