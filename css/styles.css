@@ -174,37 +174,12 @@ header {
 }
 /*End of Gallery*/
 
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
+/*Csutomers*/
+.customers {
+  background: #151f20;
+}
+.carousel-caption {
+  position: relative;
+  width:400px;
+}
+/*End of Csutomers*/
